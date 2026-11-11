@@ -25,7 +25,7 @@ This repository contains the completed projects for the CodeAlpha Data Analytics
 1. Clone the repository:
    ```bash
    git clone [https://github.com/swapnasaina274/_codealpha_data_analytics_tasks.git](https://github.com/swapnasaina274/_codealpha_data_analytics_tasks.git)
-cd _codealpha_data_analytics_tasks/task3_data_visualization
+   cd _codealpha_data_analytics_tasks/task3_data_visualization
    ```
 2. Install required dependencies:
    ```bash
